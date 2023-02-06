@@ -1,5 +1,5 @@
-## <center>Hi 👋, I'm Christophe Gouteux
-## <center>Currently, fullstack JS web developer in training with O'Clock
+<h1 align='center'>Hi 👋, I'm Christophe Gouteux</h1>
+<h2 align='center'>Currently, fullstack JS web developer in training with O'Clock</h2>
 
 
 <div align='center'>
@@ -32,7 +32,7 @@
     height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"/>
 </div>
 
-### <center>Connect with me
+<h3 align='center'>Connect with me</h3>
 
 <div align='center'>
 <a href="https://linkedin.com/in/christophe-gouteux-710033257" target="blank"><img style="width: 40px;
@@ -44,7 +44,7 @@
 </div>
 
 
-### <center>Stats
+<h3 align='center'>Stats</h3>
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=gouteuxchristophe&show_icons=true&theme=radical" alt="[Les Stats GitHub de Anurag]"/>
