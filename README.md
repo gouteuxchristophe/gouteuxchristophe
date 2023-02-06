@@ -25,8 +25,6 @@
 <img style="width: 40px;
     height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
 <img style="width: 40px;
-    height: 40px;" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative"/>
-<img style="width: 40px;
     height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"/>
 </div>
 
