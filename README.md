@@ -3,9 +3,9 @@
 
 
 <div align='center'>
-
+<p width=0.2rem height=0.2rem>
 ![css3](https://github.com/gouteuxchristophe/portfolio-express/blob/main/public/ressources/icon-dev/css3.png?raw=true)
-    
+</p>
 <img style="width: 40px;
     height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
 <img style="width: 40px;
