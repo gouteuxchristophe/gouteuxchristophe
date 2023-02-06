@@ -3,7 +3,7 @@
 
 
 <div align='center'>
-[](https://github.com/gouteuxchristophe/portfolio-express/blob/main/public/ressources/icon-dev/css3.png)
+![](https://github.com/gouteuxchristophe/portfolio-express/blob/main/public/ressources/icon-dev/css3.png)
 <img style="width: 40px;
     height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
 <img style="width: 40px;
