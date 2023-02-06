@@ -3,8 +3,8 @@
 
 
 <div align='center'>
-<img style="width: 5%;
-    height: 5%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"/>
+<img style="width: 40px;
+    height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"/>
 <img style="width: 40px;
     height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
 <img style="width: 40px;
