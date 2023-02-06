@@ -3,4 +3,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouteuxchristophe&show_icons=true&theme=radical)
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=gouteuxchristophe&repo=github-readme-stats)](https://github.com/gouteuxchristophe/github-readme-stats)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=gouteuxchristophe&repo=github-readme)](https://github.com/gouteuxchristophe/github-readme)
