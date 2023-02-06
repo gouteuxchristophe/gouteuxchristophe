@@ -3,9 +3,7 @@
 
 
 <div align='center'>
-
-<img style="width: 0.5rem;
-    height: 0.5rem;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"/>
+[](https://github.com/gouteuxchristophe/portfolio-express/blob/main/public/ressources/icon-dev/css3.png)
 <img style="width: 40px;
     height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
 <img style="width: 40px;
