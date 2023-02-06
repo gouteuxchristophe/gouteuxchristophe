@@ -1,4 +1,27 @@
-# <center>Hi 👋, I'm Christophe Gouteux
+<style>
+.language_container, .contact_container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.language_container img, .contact_container img {
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    padding: 0.5rem;
+    border-radius: 50%
+}
+.contact_container img {
+    width: 40px;
+    height: 30px;
+}
+.stats_container {
+    text-align: center
+}
+</style>
+
+## <center>Hi 👋, I'm Christophe Gouteux
 ## <center>Currently, fullstack JS web developer in training with O'Clock
 
 
@@ -36,25 +59,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gouteuxchristophe&theme=dark&hide_border=true&locale=fr)
 </div>
 
-<style>
-.language_container, .contact_container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 1rem;
-}
-.language_container img, .contact_container img {
-    width: 40px;
-    height: 40px;
-    background-color: white;
-    padding: 0.5rem;
-    border-radius: 50%
-}
-.contact_container img {
-    width: 40px;
-    height: 30px;
-}
-.stats_container {
-    text-align: center
-}
-</style>
